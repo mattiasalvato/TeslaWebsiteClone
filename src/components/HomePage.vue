@@ -71,7 +71,7 @@
   
     <div id="section">
       <div id="content" class="text-center pt-[100px]">
-        <h1 class="text-4xl font-semibold md:text-5xl">Model 3</h1>
+        <h1 class="text-4xl font-semibold md:text-5xl">Model 3s</h1>
         <h2 class="mt-[5px] capitalize">Order Online for <a href="" class="underline">Touchless Delivery</a></h2>
 
           <div class="mt-[300px] w-[100%] flex flex-wrap justify-center sm:grid grid-cols-2 md:grid grid-cols-2 md:mt-[400px]">
