@@ -1,0 +1,39 @@
+[debug] [2022-06-06T10:04:00.091Z] ----------------------------------------------------------------------
+[debug] [2022-06-06T10:04:00.093Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Mattia\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-06-06T10:04:00.094Z] CLI Version:   11.0.1
+[debug] [2022-06-06T10:04:00.094Z] Platform:      win32
+[debug] [2022-06-06T10:04:00.094Z] Node Version:  v16.15.0
+[debug] [2022-06-06T10:04:00.095Z] Time:          Mon Jun 06 2022 12:04:00 GMT+0200 (Ora legale dell’Europa centrale)
+[debug] [2022-06-06T10:04:00.095Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-06T10:04:00.103Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-06T10:04:00.104Z] > authorizing via signed-in user (mattiasalvato9@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Mattia\projects\eserciziPortfolio\teslaClone\tesla-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-06-06T10:04:10.928Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-06-06T10:04:11.478Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-06-06T10:04:11.478Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project teslaclone-f5d49 (TeslaClone) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
