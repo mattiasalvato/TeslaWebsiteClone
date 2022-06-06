@@ -16,7 +16,7 @@
     </ul>
 
     <div class="flex justify-end mr-2"> 
-      <span class="bg-gray-500 rounded-lg p-2 w-[64px] h-[32px] mt-[5px] opacity-25 mr-5 sm:mr-5
+      <span class="bg-gray-500 rounded-lg p-2 w-[64px] h-[32px] mt-[17px] opacity-25 mr-5 sm:mr-5
                   lg:opacity-0 "> 
   
       </span>
@@ -26,7 +26,7 @@
       <h4 class="absolute mt-2 mr-3 font-semibold hidden cursor-pointer 
                   lg:mr-[100px] lg:-mt-[30px] lg:block">Shop</h4>
 
-      <h4 class="absolute mt-2 mr-3 font-semibold mr-[32px] w-[40px] cursor-pointer 
+      <h4 class="absolute mt-5 mr-3 font-semibold mr-[32px] w-[40px] cursor-pointer 
                   lg:mr-10 lg:-mt-[30px]"  @click="displayMenu">Menu</h4>
     </div>
   </header>
@@ -71,7 +71,7 @@
   
     <div id="section">
       <div id="content" class="text-center pt-[100px]">
-        <h1 class="text-4xl font-semibold md:text-5xl">Model 3s</h1>
+        <h1 class="text-4xl font-semibold md:text-5xl">Model 3</h1>
         <h2 class="mt-[5px] capitalize">Order Online for <a href="" class="underline">Touchless Delivery</a></h2>
 
           <div class="mt-[300px] w-[100%] flex flex-wrap justify-center sm:grid grid-cols-2 md:grid grid-cols-2 md:mt-[400px]">
